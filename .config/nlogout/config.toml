@@ -9,10 +9,10 @@ lock_screen_app = "i3lock -c 313244"
 
 # Window configuration
 [window]
-width = 782
+width = 788
 height = 118
 title = "nlogout"
-background_color = "#313244"
+background_color = "#33658a"
 
 # Font configuration
 [font]
@@ -30,47 +30,47 @@ padding = 3
 top_padding = 3
 corner_radius = 10 # Radius of 0 = square button
 icon_size = 40
-icon_theme = "default"
+icon_theme = "sardi-tory"
 
 # Individual button configurations
 [buttons.cancel]
 text = "Cancel"
-background_color = "#f5e0dc"
-text_color = "#363a4f"
+background_color = "#d3c6aa"
+text_color = "#2d353b"
 shortcut = "Escape"
 
 [buttons.logout]
 text = "Logout"
-background_color = "#cba6f7"
-text_color = "#363a4f"
+background_color = "#d699b6"
+text_color = "#2d353b"
 shortcut = "L"
 
 [buttons.reboot]
 text = "Reboot"
-background_color = "#f5c2e7"
-text_color = "#363a4f"
+background_color = "#e67e80"
+text_color = "#2d353b"
 shortcut = "R"
 
 [buttons.shutdown]
 text = "Shutdown"
-background_color = "#f5a97f"
-text_color = "#363a4f"
+background_color = "#e69875"
+text_color = "#2d353b"
 shortcut = "S"
 
 [buttons.lock]
 text = "Lock"
-background_color = "#8aadf4"
-text_color = "#363a4f"
+background_color = "#7fbbb3"
+text_color = "#2d353b"
 shortcut = "K"
 
 [buttons.suspend]
 text = "Suspend"
-background_color = "#7dc4e4"
-text_color = "#363a4f"
+background_color = "#9da9a0"
+text_color = "#2d353b"
 shortcut = "U"
 
 [buttons.hibernate]
 text = "Hibernate"
-background_color = "#a6da95"
+background_color = "#83c092"
 text_color = "#363a4f"
 shortcut = "H"
