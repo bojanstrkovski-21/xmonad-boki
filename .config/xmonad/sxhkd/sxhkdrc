@@ -1,0 +1,15 @@
+# rofi
+super + d
+     ~/.config/launcher-aditaya/files/launchers/type-4/launcher.sh
+
+# powermenu
+super + x
+     ~/.config/powermenu/powermenu.sh
+
+# picom-toggle
+ctrl + alt + o
+     ~/.bin/picom-toggle.sh
+
+#reload sxhkd:
+super + shift + s
+     pkill -USR1 -x sxhkd

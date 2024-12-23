@@ -1,0 +1,500 @@
+l
+chmod +x 118-core.sh 
+chmod +x 118-core.sh 
+makepkg -s
+sudo pacman -U nm-tray-0.5.0-2-x86_64.pkg.tar.zst
+nm-tray
+cd /home/bojanstrko/mnt/Toshiba2/Od Linux/boki-repos/shtrkce_repo_xl/
+cd /home/bojanstrko/mnt/Toshiba2/Od\ Linux/boki-repos/shtrkce_repo_xl/
+ls
+strace -efile -f git push
+git config --global http.postBuffer 157286400
+./push.sh 
+git pull
+git push origin main
+nm-tray 
+nv ~/.config/hypr/hyprland.conf 
+chmod +x n-tray.sh 
+./n-tray.sh 
+sudo pacman -S network-manager-applet
+yay network-manager-applet
+nm-applet
+sudo pacman -Rns nm-tray
+sudo pacman -Rns nm-tray
+yay blueberry-tray
+yay blueberry
+blueberry
+blueberry-tray &
+blueman
+yay blueman
+blueman-applet
+blueman-applet
+cd x86_64/
+./update_repo.sh 
+ls
+cd..
+git config --global --add safe.directory '/home/bojanstrko/mnt/Toshiba2/Od Linux/boki-repos/shtrkce-repo'
+git add .
+git commit-m "add pkgs"
+git commit -m "add pkgs"
+git push
+cd /home/bojanstrko/mnt/Toshiba2/Od Linux/boki-repos/shtrkce_repo_xl/
+cd /home/bojanstrko/mnt/Toshiba2/Od\ Linux/boki-repos/shtrkce_repo_xl/
+strace -efile -f git push
+git config --global http.postBuffer 157286400
+git pull
+nm-tray 
+nv ~/.config/hypr/hyprland.conf 
+chmod +x n-tray.sh 
+./n-tray.sh 
+sudo pacman -S network-manager-applet
+yay network-manager-applet
+nm-applet
+sudo pacman -Rns nm-tray
+sudo pacman -Rns nm-tray
+yay blueberry-tray
+yay blueberry
+blueberry
+blueberry-tray &
+blueman
+blueman-applet
+sps pacutils
+man pacinstall
+yay blueman
+cd ~/data
+cd mnt
+cd Toshiba2
+cd Od\ Linux
+cd boki-repos
+ls shtrkce-repo/x86_64/
+ls shtrkce_repo_xl/x86_64/
+yay paru
+yay yay
+cd
+cd Public/pkgs/
+nb
+ex paru.tar.gz 
+cd paru
+ex paru-git.tar.gz 
+cd paru-git
+cd yay-bin/
+cd yay-git/
+cd..
+ex bauh.tar.gz 
+cd bauh/
+l
+makepkg -s
+syy
+sps bauh
+sudo pacman -rns bauh
+sudo pacman -Rns bauh
+yay bauh
+yay octopi
+cd /home/bojanstrko/mnt/Toshiba2/Od Linux/boki-repos/
+cd /home/bojanstrko/mnt/Toshiba2/Od\ Linux/boki-repos/
+cd shtrkce_repo_xl/
+ls
+git add .
+git commit -m "octopi"
+git push origin main
+./push.sh 
+git clean
+git -f clean
+git -h
+hyprctl switchxkblayout input nex
+hyprctl switchxkblayout input next
+hyprctl switchxkblayout next
+hyprctl devices
+hyprctl switchxkblayout sonix-usb-device next
+hyprctl switchxkblayout sonix-usb-device next
+chmod +x toggle_layout.sh 
+l
+ll
+ls
+cd /home/bojanstrko/.config/hypr/scripts/
+./toggle_layout.sh 
+pkill hyprland
+sudo systemctl restart sddm 
+killall virtualmachinemanager
+killall virtual-machine-manager
+sudo systemctl restart sddm
+chmod +x toggle_layout.sh 
+l
+ll
+cd /home/bojanstrko/.config/hypr/scripts/
+./toggle_layout.sh 
+pkill hyprland
+sudo systemctl restart sddm 
+killall virtualmachinemanager
+killall virtual-machine-manager
+sudo systemctl restart sddm
+sps octopi-notifier-qt5-0.15.0-
+sps octopi-notifier-qt5-0.15.0
+sps octopi-notifier-qt
+sps octopi-notifier
+cd /home/bojanstrko/mnt/Toshiba2/Od Linux/boki-repos/shtrkce_repo_xl/
+cd /home/bojanstrko/mnt/Toshiba2/Od\ Linux/boki-repos/shtrkce_repo_xl/
+ls
+./push.sh 
+syy
+sudo pacman -Ss octopi-notifier
+sudo pacman -S octopi-notifier-qt5
+yay octopi
+usr/bin/octopi-notifier
+/usr/bin/octopi-notifier
+echo $PATH
+octopi-notifier
+upd-notify
+sb
+hcf
+nb
+x
+yay bauh
+yay account-service
+yay accountservice
+yay account
+D
+cd /home/bojanstrko/mnt/Toshiba2/Od\ Linux/boki-repos/shtrkce_repo_xl/
+./push.sh 
+syy
+sudo pacman -Ss octopi-notifier
+sudo pacman -S octopi-notifier-qt5
+yay octopi
+usr/bin/octopi-notifier
+/usr/bin/octopi-notifier
+echo $PATH
+octopi-notifier
+upd-notify
+hcf
+x
+yay bauh
+yay account-service
+yay accountservice
+yay account
+D
+ls -a\
+ls -a | l;olcat
+ls -a | lolcat
+ls -al | lolcat
+sb
+nb
+nv .bash_profile 
+cd .bin
+whreis get-nemesis
+whereis get-nemesis
+find get-nemesis
+whereis get-nemesis-on-arcolinux
+la
+la /usr/local/bin
+nv /usr/local/bin/get-me-started 
+nv /usr/local/bin/toggle-arcolinux-repo 
+get-nemesis-on-arcolinux 
+ls -a
+cd
+nv /usr/local/bin/get-nemesis-on-arcolinux 
+cd DATA/
+l
+cd arcolinux-nemesis/
+ls
+sps ly
+sps cmatrix
+cmatrix
+suso systemctl disable sddm
+sudo systemctl disable sddm
+sudo systemctl enable ly
+sudo systemctl start --now ly
+sudo systemctl start --now ly
+ребоот
+sudo systemctl disable sddm
+reboot
+yay -S ly-git
+ly
+yay malloc
+sudo systemctl restart ly
+yay malloc
+sudo systemctl restart ly
+sudo pacman -S --nedded libinput wayland wlroots xkbcommon wayland-protocols pkg-config libxcb libxcb-wm wlroots Xwayland
+sudo pacman -S --needed libinput wayland wlroots xkbcommon wayland-protocols pkg-config libxcb libxcb-wm wlroots Xwayland
+yay xkbcommon
+sudo pacman -S --needed libinput wayland wlroots libxkbcommon libxkbcommon-x11 wayland-protocols pkg-config libxcb libxcb-wm wlroots Xwayland
+sudo pacman -S --nedded libinput wayland wlroots libxkbcommon wayland-protocols pkg-config libxcb xcb-util-wm wlroots xorg-xwayland
+sudo pacman -S --needed libinput wayland wlroots libxkbcommon wayland-protocols pkg-config libxcb xcb-util-wm wlroots xorg-xwayland
+cd Public/
+ls
+gc https://codeberg.org/dwl/dwl.git
+cd dwl
+l
+nv
+nvim
+nv config.mk
+nv config.def.h 
+pkill Hyprland
+pkill sddm
+sudo systemctl restart sddm
+sudo pacman -S --nedded libinput wayland wlroots libxkbcommon wayland-protocols pkg-config libxcb xcb-util-wm wlroots xorg-xwayland
+sudo pacman -S --needed libinput wayland wlroots libxkbcommon wayland-protocols pkg-config libxcb xcb-util-wm wlroots xorg-xwayland
+cd Public/
+ls
+gc https://codeberg.org/dwl/dwl.git
+cd dwl
+nvim
+nv config.mk
+nv config.def.h 
+pkill Hyprland
+pkill sddm
+sudo systemctl restart sddm
+nb
+nv ~/.config/nvim/lua/plugins/
+cd ~/.config/nvim/lua/plugins/
+cd hypr
+nv hyprland.conf 
+cd waybar
+nv config.ini 
+cd variety
+nv variety.conf 
+cd ..
+cd nvim
+cd lua
+cd plugins/
+l
+nv treesitter.lua 
+nv
+nv
+cd /home/bojanstrko/mnt/Toshiba2/Boki 2/Gitlab-Boki/neovim-boki-2/
+cd /home/bojanstrko/mnt/Toshiba2/Boki\ 2/Gitlab-Boki/neovim-boki-2/
+l
+git config --global --add safe.directory '/home/bojanstrko/mnt/Toshiba2/Boki 2/Gitlab-Boki/neovim-boki-2'
+git add .
+git status
+git commit -m "update"
+git push
+git push
+sps wlogout
+wlogout
+sps wlogout
+wlogout
+sps hyprlock
+hyprlock
+sps rofi-wayland
+yay network-manager-applet
+yay network-manager-applet
+makepkg -s
+nb
+sb
+spu sublime-text-4-4.4169-2-x86_64.pkg.tar.zst 
+cd /home/bojanstrko/mnt/Toshiba2/Od Linux/boki-repos/shtrkce_repo_xl/
+cd /home/bojanstrko/mnt/Toshiba2/Od\ Linux/boki-repos/shtrkce_repo_xl/
+ls
+./push.sh 
+syy
+yay sublime
+exit
+yay sublime
+exit
+updpkgsums
+sudo pacman -S archlinux-keyring
+makepkg -s
+updpkgsums
+sudo pacman -S archlinux-keyring
+cd swww/
+cd ..
+cd cava
+makepkg -s
+cd /home/bojanstrko/mnt/Toshiba2/Od Linux/boki-repos/shtrkce_repo_xl/
+cd /home/bojanstrko/mnt/Toshiba2/Od\ Linux/boki-repos/shtrkce_repo_xl/
+./push.sh 
+nv .config/hypr/hyprland.conf 
+./push.sh 
+nv .config/hypr/hyprland.conf 
+yay opting
+git clone https://github.com/pop-os/gtk-theme.git
+cd gtk-theme
+meson build && cd build
+yay sassc
+meson build
+cd build
+ninja
+ninja install
+thumler
+thumlerd
+tumlerd
+tumler
+tumbler
+thumbler
+tumlerd
+tumler
+tumbler
+thumbler
+git status
+git checkout
+cd ..
+gc https://github.com/pop-os/hp-wallpapers.git
+rm -f hp-wallpapers
+rm -rf hp-wallpapers
+git clone --dept=1  https://github.com/pop-os/hp-wallpapers.git
+cd hp
+cd hp-wallpapers/
+git pull
+cd original
+cd
+curl https://github.com/pop-os/hp-wallpapers/blob/master/original/digital-planet-blue.png
+wget https://github.com/pop-os/hp-wallpapers/blob/master/original/digital-planet-blue.png
+yay tumbler
+tumbler
+./boki-hello-2.sh 
+cd /home/bojanstrko/mnt/Toshiba2/Od Linux/Arch-boki-pkg/boki-hello/home/boki-hello/
+cd /home/bojanstrko/mnt/Toshiba2/Od\ Linux/Arch-boki-pkg/boki-hello/home/boki-hello/
+ls
+./boki_hello.sh 
+chmod +x update-system.sh 
+./boki-post-install.sh 
+ls -a
+ls -a --color-auto=true
+nb
+la
+chmod +x update-system.sh 
+./update-system.sh 
+;a
+la
+man yad
+wiptail -calendar
+sps wiptail
+whiptail -calendar
+whiptail --calendar
+man whiptail
+chmod +x upd.sh 
+chmod +x update-system 
+chmod +x upd.sh 
+chmod +x update-system 
+chmod +x boki-post-install-whiptail 
+la
+./boki-i
+./boki-post-install-whiptail 
+chmod +x changecolors.sh 
+./changecolors.sh 
+chmod +x dialog-menu.sh 
+./dialog-menu.sh 
+./dialog-menu.sh
+./boki-post-install-whiptail 
+./boki-post-install
+./upd.sh 
+yay glade
+glade
+sudo pacman -Rdd libsoup2
+sudo pacman -Rdd libsoup2
+sudo pacman -Rdd libsoup
+glade
+att
+arcolinux-welcome-app 
+aag
+distrobox enter -r arch
+ls
+exit
+sudo pacman -S fastfetch
+sudo pacman -Syu
+sudo pacman -Sy
+sudo pacman -S openssl
+exit
+sudo pacman -Rdd libsoup2
+sudo pacman -Rdd libsoup
+glade
+att
+arcolinux-welcome-app 
+aag
+sudo pacman -Rs inkscape
+sudo pacman -S inkscape
+inkscape
+sudo pacman -S libsoup
+distrobox list
+sudo pacman -S distrobox
+sudo pacman -S docker
+docker --daemon
+sudo systemctl start docker
+distrobox create archlinux
+distrobox --root create archlinux
+man docker
+distrobox create -v -r archlinux
+man distrobox
+distrobox-create -v -r Archlinux arch
+distrobox-create -v -r -n arch -i docker.io/library/archlinux:latest
+distrobox enter --root arch
+distrobox enter --r arch
+distrobox enter -r arch
+distrobox remove
+distrobox rm arch
+exit
+echo $LANG
+echo $LC_*
+sudo pacman -Syy
+pacman-static -Syu
+pacman-static
+pacman-static -U lib32-openssl-1_3.2.1-1-x86_64.pkg.tar.zst
+wget https://archlinux.org/packages/core/x86_64/openssl/download/
+ls
+pacman -Q $(pactree -u pacman)
+exit
+exit
+sudo pacman -Rss inscape
+sudo pacman -Rss inkscape
+sudo pacman -Rdd libsoup
+glade
+yay libsoup
+att
+distrobox remove
+exit
+distrobox list
+distrobox -r list
+distrobox --root list
+sudo distrobox list
+distrobox-list
+distrobox-list -r
+distrobox rm arch
+distrobox -r rm arch
+distrobox-create -v -r -n arch -i docker.io/library/archlinux:latest
+distrobox enter --root arch
+distrobox-stop -r arch
+distrobox rm -r arch
+distrobox-create -v -r -n arch -i registry.opensuse.org/opensuse/distrobox:latest
+kill all subl
+killall subl
+pkill subl
+pkill subl
+la
+ll
+ls -al
+ls -al --color=auto
+ff
+neofetch
+duf
+killall code
+killall vscode
+killall code
+killall vscode
+cd 
+ly
+ls -la
+cd /etc
+cd ly
+ls
+snv config.ini
+systectl restart ly
+systemctl restart ly
+cd /etc/ly
+ls
+snv config.ini
+systemctl restart ly
+snv config.ini
+systemctl restart ly
+sudo cp colors /etc/initcpio/install
+sudo cp sd-colors /etc/initcpio/install
+ls /etc/initcpio/install
+cd hooks
+sudo cp colors /etc/initcpio/hooks
+ls /etc/initcpio/hooks
+cd ..
+ls
+sudo cp setcolors.service /etc/systemd/system
+ls  /etc/systemd/system
+snv /etc/mkinitcpio.conf
+cd /etc/ly
+snv config.ini

@@ -1,0 +1,500 @@
+cargo run tui
+tui
+./tui
+clean
+./tui
+clear
+cleancffffffexit
+x
+ls
+cargo run tui
+tui
+clean
+cleancffffffexit
+man pacman
+cargo clean
+cargo build
+./tui
+clear
+sssd
+x
+cargo run
+yay fzf
+x
+./archboki-app-glade.glade
+man pacman
+man reflector
+q
+reflector --help
+nb
+att
+clean
+cleancffffffexit
+man pacman
+clear
+sssd
+x
+cargo run
+cd mnt
+cd Toshiba2
+cd Od\ Linux
+cd post-install-archlinux/
+cd novi-proba/
+cd menu-examples/
+cd justlinuxuser/
+cd archboki-util/
+ls
+cargo clean
+cargo build
+cd target/
+cd debug/
+./tui
+x
+cargo clean
+x
+cargo build
+cd target/debug/
+./tui
+clean
+x
+cd Toshiba2
+cd Od\ Linux
+cd post-install-archlinux/
+cd novi-proba/
+cd menu-examples/
+cd justlinuxuser/
+cd archboki-util/
+ls
+cd target/
+cd debug/
+cd target/debug/
+clean
+chmod +x *
+ls -al
+cd ..
+cd 
+cd /home/bojanstrko/mnt/Toshiba2/Od\ Linux/post-install-archlinux/novi-proba/menu-examples/justlinuxuser/archboki-util/
+cargo clean
+cargo build
+./tui
+x
+chmod +x *
+chmod +x *.sh
+cd justlinuxuser/
+cd archboki-util/
+ls
+cd target/
+cd debug/
+cd target/debug/
+clean
+chmod +x *
+ls -al
+cd ..
+cd 
+cd /home/bojanstrko/mnt/Toshiba2/Od\ Linux/post-install-archlinux/novi-proba/menu-examples/justlinuxuser/archboki-util/
+x
+cargo clean
+cargo build
+./tui
+git pull
+cd ..
+cd arcopro-iso/
+git pull
+cd..
+cd
+./tui
+git pull
+sudo rm -rf arcopro-build/*
+cd..
+cd
+cd arconet-build
+cd ..
+sudo rm -rf arconet-build/*
+aag
+x
+cd ..
+sudo pacman -Scc
+yay -Scc
+paru -Scc
+./30-build-the-iso-the-first-time.sh 
+cd
+sudo rm -rf arconet-build/*
+cd arconet-iso
+git pull
+cd installation-scripts/
+./40-build-the-iso-local-again.sh 
+chmod +x *
+cd 
+cd /home/bojanstrko/mnt/Toshiba2/Od\ Linux/post-install-archlinux/novi-proba/menu-examples/justlinuxuser/archboki-util/
+cargo clean
+cargo build
+./tui
+git pull
+cd arcopro-iso/
+git pull
+./tui
+git pull
+sudo rm -rf arcopro-build/*
+cd arconet-build
+sudo rm -rf arconet-build/*
+aag
+chmod +x build.sh 
+ls -a
+ls -al
+sudo rm -rf build/*
+ls build
+./build.sh 
+gc https://github.com/arconetpro/arcoplasma-iso.git
+cd arcoplasma-iso/
+cd ..
+cd archiso
+nv pacman.conf
+ls
+cd arcoplasma-iso/archiso
+la
+cd airootfs/
+cd etc
+nv pacman.conf 
+cd..
+cd installation-scripts/
+sudo pacman -S archiso
+cd
+sudo rm -rf arcoplasma-build/*
+cd arcoplasma-iso/installation-scripts/
+./40-build-the-iso-local-again.sh 
+x
+chmod +x arch_boki_bash.sh 
+./arch
+./arch_boki_bash.sh 
+x
+./arch_boki_bash.sh 
+yay rofi
+yay geany
+gc https://github.com/bojanstrkovski-21/arch-boki-post-install-dev.git
+killall thunar
+sudo rm -rf arcoplasma-build/*
+cd arcoplasma-iso/installation-scripts/
+./40-build-the-iso-local-again.sh 
+x
+chmod +x arch_boki_bash.sh 
+./arch
+./arch_boki_bash.sh 
+x
+./arch_boki_bash.sh 
+yay rofi
+yay geany
+gc https://github.com/bojanstrkovski-21/arch-boki-post-install-dev.git
+killall thunar
+att
+aag
+cd Templates
+cd archiso
+sps archiso
+ls /usr/share/archiso/configs/
+rm -rf iso/*
+ls iso
+sudo rm -rf build/*
+ls build
+ls out
+ls ~/Downloads/
+cp -rf /usr/share/archiso/configs/releng/* 
+cp -rf /usr/share/archiso/configs/releng/* ~/Templates/archiso/iso/
+cd airootfs/
+ls /etc
+cp /etc/os-release ~/Templates/archiso/iso/airootfs/etc/os-release
+cd etc
+nv os-release 
+cd ..
+cd iso
+nv pacman.conf 
+cp pacman.conf airootfs/etc
+ls airootfs/etc/
+cd..
+ls
+cat arch_build_iso.sh 
+./arch_build_iso.sh 
+cat arch_build_iso.sh 
+./arch_build_iso.sh 
+git add .
+git commit -m "update"
+git push
+gc https://github.com/bojanstrkovski-21/arch-boki-post-install-dev.git
+killall thunar
+git config --global --add safe.directory '/home/bojanstrko/mnt/Toshiba2/Boki 2/Github-Boki/arch-boki-post-install-dev'
+git add .
+git commit -m "initial commit"
+git remote add origin https://github.com/bojanstrkovski-21/arch-boki-post-install-dev.git
+> origin https://github.com/bojanstrkovski-21/arch-boki-post-install-dev.git (fetch)
+git remote -v
+git push
+git add .
+git commit -m "choices"
+git push
+git push
+att
+syy
+yay brave
+yay brave
+cd..
+cd wezterm-git/
+makepkg -s
+yay wezterm
+pfetch
+ufetch
+hyfetch
+yay wezterm
+pfetch
+ufetch
+hyfetch
+cd sddm-conf
+ls
+yay qtilitools
+cd..
+cd qtilitools/
+makepkg -s
+yay sixel
+yay imagemagick7
+yay imagemagick
+yay kitty-direct
+yay kitty
+sudo pacman -Qa
+sudo pacman -Q
+yay kitty-shell-integration
+yay mintty
+yay wezterm
+makepkg -s
+./update_repo.sh 
+cd..
+git add .
+git commit -m "sddm-conf sddm-config-editor qtilitools"
+git push orifin main
+git push origin main
+git push
+hyfetch
+sudo rm /usr/share/terminfo/w/wezterm
+update
+update
+fastfetch
+3
+yay fastfetch
+fastfetch
+nb
+sudo pacman -Rns wezterm-git 
+yay wezterm
+wezterm
+x
+sudo pacman -Rns wezterm-git 
+sudo pacman -Rns wezterm
+q
+x
+yay
+paru
+x
+yay sddm-conf
+sudo font-cache -v
+man font
+yay dracula-themes-meta
+yay dracula-themes
+yay dracula-theme
+yay dracula
+git add .
+git commit -m "typos missing pkgs update clean"
+git push
+chmod +x *
+ls
+ls -al
+la
+yay lscpu
+lscpu
+man rofi
+kill -9 **
+man rofi
+nb
+sb
+inv
+nvim $(fzf --preview="bat --color=always {}"
+fzf --preview="bat --color=always {}"
+fzf **
+fzf
+kill -9 **
+fzf
+kill -9 10113 
+kill -9 4279 
+kill -9 11121 
+
+kill -9 11144 
+sudo kill -9 11144 
+inv arch_boki_bash.sh
+inv
+nv ~/mnt/Toshiba2/Od-Linux
+ls ~/mnt/Toshiba2/Od_Linux/post-install-archlinux/novi-proba/menu-examples/bash-menu/arch_boki_bash.sh 
+nv ~/mnt/Toshiba2/Od_Linux/post-install-archlinux/novi-proba/menu-examples/bash-menu/arch_boki_bash.sh 
+nv
+nv ~/.config/nvim/lua/vim-options/options.lua 
+git add .
+git commit -m "update options"
+git push
+sudo pacman -S nemo-share
+ls ~/mnt/Toshiba2/Od_Linux/post-install-archlinux/novi-proba/menu-examples/bash-menu/arch_boki_bash.sh 
+nv ~/mnt/Toshiba2/Od_Linux/post-install-archlinux/novi-proba/menu-examples/bash-menu/arch_boki_bash.sh 
+nv
+nv ~/.config/nvim/lua/vim-options/options.lua 
+git add .
+git commit -m "update options"
+git push
+nb
+sb
+chmo *
+cd add-repos/
+la
+ls core-utils/
+la core-utils/
+la install-scripts/
+cd choose-desktop/
+ls
+la cinnamon/
+la dwl
+la dwl-dev/
+la hyprland-scripts/
+la kde-plasma/
+la xfce/
+cd..
+pwd
+./arch_boki_bash.sh 
+sudo pacman -Rns qt5ct 
+sps qt6ct kvantum
+sps kate
+sudo pacman -Rdd kate
+makepkg -s
+la dwl
+la dwl-dev/
+la hyprland-scripts/
+la kde-plasma/
+la xfce/
+cd..
+pwd
+./arch_boki_bash.sh 
+sudo pacman -Rns qt5ct 
+sps qt6ct kvantum
+sps kate
+sudo pacman -Rdd kate
+la
+git commit "update mkinitcpio-firmware"
+git commit -m "update mkinitcpio-firmware"
+git commit -m "update"
+git add .
+git commit -m "update audio"
+git push
+yay -S llama-cpp llama-cpp-cuda llama-cpp-opencl
+yay -S llama-cpp
+curl -fsSL https://ollama.com/install.sh | sh
+ollama
+ollama serve
+ollama ps
+ollama list
+ollama create llama3-gradient:latest
+ollama run llama3
+git pull
+cd /home/bojanstrko/Templates/arch-post-install/
+gc https://github.com/bojanstrkovski-21/arch-boki-post-install-dev
+la hyprland-scripts/
+la kde-plasma/
+la xfce/
+cd..
+pwd
+./arch_boki_bash.sh 
+sudo pacman -Rns qt5ct 
+sps qt6ct kvantum
+sps kate
+sudo pacman -Rdd kate
+makepkg -s
+la dwl
+la dwl-dev/
+la hyprland-scripts/
+la kde-plasma/
+la xfce/
+cd..
+pwd
+./arch_boki_bash.sh 
+sudo pacman -Rns qt5ct 
+sps qt6ct kvantum
+sps kate
+sudo pacman -Rdd kate
+git commit "update mkinitcpio-firmware"
+git commit -m "update mkinitcpio-firmware"
+git commit -m "update audio"
+yay -S llama-cpp llama-cpp-cuda llama-cpp-opencl
+yay -S llama-cpp
+curl -fsSL https://ollama.com/install.sh | sh
+ollama
+ollama serve
+ollama ps
+ollama list
+ollama create llama3-gradient:latest
+ollama run llama3
+la add-repos/
+la core-utils/
+la install-scripts/
+la choose-desktop/cinnamon/
+la choose-desktop/hyprland-scripts/
+la choose-desktop/kde-plasma/
+la choose-desktop/xfce
+nv .gitignore
+git commit -m ".gitignore"
+chmo git-conf-exec-save.sh
+la
+git commit -m "git config make and push executable"
+git pull && file arch_boki_bash.sh | grep -q "executable" || echo "Script not executable"
+git pull && file add-repos/* | grep -q "executable" || echo "Script not executable"
+git pull && file add-repos/upd_servers.sh | grep -q "executable" || echo "Script not executable"
+git pull && file add-repos/append_archboki_repo.sh | grep -q "executable" || echo "Script not executable"
+la choose-desktop/hyprland-scripts/130.apps.sh 
+git pull
+git commit -m "update"
+./make-execute.sh 
+git ls-files | while read -r file; do if ! file "$file" | grep -q "executable"; then echo "File not executable: $file"; fi; done
+./git-conf-exec-save.sh 
+git commit -m "changed git-conf-exec-save.sh to show wich files are not executable"
+nv make-execute.sh 
+git commit -m "update executable"
+git comit -m "added printers and deleted deprecated linux-font-libertine"
+git commit -m "added printers and deleted deprecated linux-font-libertine"
+git commit -m "update printers"
+git add .
+git commit -m "type'os 130.apps.sh"
+git push
+git add .
+git commit -m "type'os 130.apps.sh"
+git push
+yay showme
+cd Templates/showmethekey/
+ex showmethekey.tar.gz 
+cd showmethekey/
+ls
+updpkgsums
+makepkg -s
+nb
+spu showmethekey-1.13.1-4-x86_64.pkg.tar.zst 
+sps showmethekey
+sps showmethekey
+hyprctl clients | grep -i class
+one.alynx.showmethekey
+man showmethekey
+showmethekey -h
+showmethekey --help
+showmethekey
+man showmethekey-gtk
+showmethekey-gtk -h
+showmethekey-gtk --help-gapplication
+showmethekey-gtk --help-all
+showmethekey-gtk --help
+showmethekey-gtk
+hyprctl clients | grep -i class show
+hyprctl clients | grep -i class
+pkill -f showmethekey
+YAY WEV
+yay wev
+wev
+xev
+x
+virt-manager
